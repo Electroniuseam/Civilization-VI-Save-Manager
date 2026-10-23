@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Civilization-VI-Save-Manager` · Updated: 2026-10-07
+`Civilization-VI-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `civilization-6` `save-manager` `strategy` `4x` `turn-based`
